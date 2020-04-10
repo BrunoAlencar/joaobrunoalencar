@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Layout from '../components/layout/Layout'
 import {User} from '../interfaces/index'
 const user: User = {
-  name: 'Bruno Alencar'
+  name: 'João Bruno Alencar'
 }
 
 const IndexPage = () => (
