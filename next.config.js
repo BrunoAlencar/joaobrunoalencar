@@ -2,7 +2,7 @@
 
 // const client = require('./client')
 
-// module.exports = {
+module.exports = {
 //   // Make sure that your node enviroment supports async/await
 //   exportPathMap: async function (defaultPathMap) {
   
@@ -25,4 +25,4 @@
 //       .catch(console.error)
 //     return path
 //   }
-// }
+}
