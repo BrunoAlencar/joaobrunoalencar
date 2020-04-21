@@ -14,6 +14,9 @@ const IndexPage = () => (
         <a>About</a>
       </Link>
     </p>
+      <Link href="/game">
+        <a>game</a>
+      </Link>
   </Layout>
 )
 
